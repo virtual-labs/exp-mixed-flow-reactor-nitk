@@ -2,38 +2,79 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In a continuous flow stirred tank reactor, the concentration of the exit stream",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "is different than that in the reactor",
+        "b": "is same as that in the reactor",
+        "c": "depends upon the flow rate of inlet stream",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "For a given conversion with  first order reaction , which one will be of less volume",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "PFR",
+        "b": "CSTR"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Consider a  reaction A -----> B  which is  a first order reaction. At a particular time the concentration of a reactant in a batch reactor is 5mole/lit. Temperature is maintained at 30° C. Rate of the reaction at this time is  15mole/lit.min. The same reaction is being carried out in a  CSTR  and the concentration in the reactor is maintained at 10 mole/lit. The rate of reaction in CSTR is ------------the rate of reaction in the batch reactor if the CSTR temperature is maintained at 30°C.",
+      "answers": {
+        "a": "equal to",
+        "b": "smaller than",
+        "c": "greater than"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Consider a reaction A ----> B  which is  a first order reaction. At a particular time the concentration of a reactant in a batch reactor is 2mole /lit. Temperature is maintained at 30° C. Rate of the reaction at this time is   5mole/lit.min. The same reaction is being carried out in a   CSTR  and the concentration in the reactor is maintained at 2mole/lit. The rate of reaction in   CSTR is ----------- the rate of reaction in the batch reactor if the CSTR temperature is maintained at 50°C.",
+      "answers": {
+        "a": "equal to",
+        "b": "smaller than",
+        "c": "greater than"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Consider reaction A ----> B  which is  a first order reaction. At a particular time the concentration of a reactant in a batch reactor is 5 mole/lit. Temperature is maintained at 30° C. Rate of the reaction at this time is   15mole/lit.min. The same reaction is being carried out in a  steady state continuous stirred tank reactor (CSTR)  and the concentration in the reactor is maintained at 5mole/lit. The rate of reaction in   CSTR is ----------- the rate of reaction in the batch reactor if the CSTR temperature is also maintained at 30°C.",
+      "answers": {
+        "a": "equal to",
+        "b": "greater than",
+        "c": "smaller than"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
     }
   ]
 }
